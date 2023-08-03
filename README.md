@@ -4,4 +4,4 @@ This script will calculate amount of push-ups you should make, based on your max
 
 This technique in long term should help user to increase his maximum amount of push-ups.
 
-Live: <a href='https://lestrangeqq.github.io/workoutCalc/'>https://lestrangeqq.github.io/workoutCalc/</a>
+Live: <a href='https://serverwind.github.io/workoutCalc/'>https://serverwind.github.io/workoutCalc/</a>
